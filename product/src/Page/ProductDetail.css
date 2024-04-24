@@ -1,0 +1,17 @@
+.card-detail {
+    display: flex;
+}
+.cardImg {
+    width: 50%;
+    margin-top: 50px;
+}
+.cardImg img {
+    width: 50%;
+    margin-left: 89px;
+    height: 350px;
+}
+.cardContent {
+    width: 50%;
+    margin-top: 50px;
+    padding: 30px;
+}
